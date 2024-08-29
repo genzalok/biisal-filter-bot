@@ -19,7 +19,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6626499601').split()]
 USERNAME = environ.get('USERNAME', "https://telegram.me/genzalok")
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002100182116))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002100182116'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', '')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002099957210').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://username:password@cluster0.jhvfd.mongodb.net/?retryWrites=true&w=majority")
