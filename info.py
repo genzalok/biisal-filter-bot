@@ -22,7 +22,7 @@ USERNAME = environ.get('USERNAME', "https://telegram.me/genzalok")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002100182116'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', '')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002099957210').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ipopcorn:ipopcorn@ipopcorn.vg2po.mongodb.net/?retryWrites=true&w=majority&appName=ipopcorn")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://keshavptdr98:aDUpB8AVsou9Xd1a@cluster0.3l8pofa.mongodb.net")
 
 DATABASE_NAME = environ.get('DATABASE_NAME', "ipopcorn")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ipopcorn')
