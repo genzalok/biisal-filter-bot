@@ -107,7 +107,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/bisal_files'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+    FILE_CAPTION = """<a href='https://t.me/filmyrip_official'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
@@ -153,7 +153,7 @@ User - {}"""
 ➥ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan
 ‼️ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄʜᴇᴄᴋ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs & ɪᴛ's ᴘʀɪᴄᴇs</b>"""
 
-    BUY_PLAN = """<b>○ <u>ғɪʀsᴛ sᴛᴇᴘ</u> : ᴘᴀʏ ᴛʜᴇ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴘʟᴀɴ ᴛᴏ ᴛʜɪs <code>alokshyamg@xyl</code> ᴜᴘɪ ɪᴅ.
+    BUY_PLAN = """<b>○ <u>ғɪʀsᴛ sᴛᴇᴘ</u> : ᴘᴀʏ ᴛʜᴇ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴘʟᴀɴ ᴛᴏ ᴛʜɪs <code>alokshyamg@axl</code> ᴜᴘɪ ɪᴅ.
     
 ○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: @genzalok 
 
